@@ -1,0 +1,8 @@
+Trainset shape is:2547452 rows and 3 columns
+Testset shape is:1021600 rows and 3 columns
+Dataset Statistics: Interaction = 2547452, User = 10216, Item = 96324, Sparsity = 0.0026
+  K               HR@10             NDCG@10
+  8            0.788469            0.547458
+ 16            0.787980            0.546995
+ 32            0.788078            0.547242
+ 64            0.787392            0.547680

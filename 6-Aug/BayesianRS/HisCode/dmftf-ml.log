@@ -1,0 +1,18 @@
+Dataset Statistics: Interaction = 994169, User = 6040, Item = 3706, Sparsity = 32.9250
+  K               HR@10             NDCG@10
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/embedding_ops.py:132: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From DMF-TF-ml.py:67: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-17 04:08:16.642011: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-07-17 04:08:16.656721: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2394595000 Hz
+2019-07-17 04:08:16.665299: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x5010520 executing computations on platform Host. Devices:
+2019-07-17 04:08:16.665366: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+
+Mean loss in this epoch is: 464.8608093261719
+  8            1.000000            1.000000

@@ -1,0 +1,2 @@
+Dataset Statistics: Interaction = 994169, User = 6040, Item = 3706, Sparsity = 0.0444
+  K               HR@10             NDCG@10
